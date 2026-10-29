@@ -1,1 +1,2 @@
 # PEC_IAI_Project
+The Restaurant Assistant AI Agent is an AI-powered chatbot developed using n8n, Google Gemini AI, Telegram, and Google Sheets. It helps customers check food availability, get restaurant information, and place orders through Telegram. The AI Agent processes customer queries, maintains conversational context using Simple Memory, and accesses restaurant data stored in Google Sheets to provide automated assistance.
